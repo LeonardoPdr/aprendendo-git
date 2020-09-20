@@ -12,7 +12,7 @@ namespace Testegit
         {
             Console.WriteLine("Ola Mundo");
             Console.WriteLine("Bom dia!");
-
+            Console.WriteLine("Dia de chuva!");
             Console.ReadLine();
         }
     }

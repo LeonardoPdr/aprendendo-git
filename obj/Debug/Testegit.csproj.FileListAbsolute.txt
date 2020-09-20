@@ -1,0 +1,6 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Testegit\bin\Debug\Testegit.exe.config
+C:\Users\leona\OneDrive\Área de Trabalho\Testegit\bin\Debug\Testegit.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Testegit\bin\Debug\Testegit.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Testegit\obj\Debug\Testegit.csprojAssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Testegit\obj\Debug\Testegit.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Testegit\obj\Debug\Testegit.pdb
